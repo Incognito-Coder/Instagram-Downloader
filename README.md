@@ -1,2 +1,3 @@
 # Instagram-Downloader
-this is an minimal api to download instagram photo/video.
+This is an minimal api to download instagram photo/video.
+include post caption and file type.
